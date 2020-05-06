@@ -1,6 +1,5 @@
 digraph G {
-  Index;
   State2;
-  Index -> State2 [ label="goToState2Index()" ];
-  State2 -> Index [ label="goToIndexState2()" ];
+  LoginPage;
+  LoginPage -> State2 [ label="goToState2LoginPage()" ];
 }

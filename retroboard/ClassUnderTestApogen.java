@@ -1,8 +1,15 @@
 package main;
 
-import org.openqa.selenium.*;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import po_utils.DriverProvider;
+import custom_classes.*;
+
+import po_utils.NotInTheRightPageObjectException;
+import po_utils.NotTheRightInputValuesException;
+
 
 public class ClassUnderTestApogen {
 
@@ -15,10 +22,10 @@ public class ClassUnderTestApogen {
     private WebDriver driver;
 
     /**
-		Page Object for Index (index) 
-	*/
-    public ClassUnderTestApogen(WebDriver driver) {
-        this.driver = driver;
+     * Page Object for Index (index)
+     */
+    public ClassUnderTestApogen() {
+        this.driver = new DriverProvider().getActiveDriver();
         PageFactory.initElements(driver, this);
     }
 

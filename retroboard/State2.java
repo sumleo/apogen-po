@@ -24,6 +24,6 @@ public class State2 {
 
     public ClassUnderTestApogen goToIndex() {
         a_Retrospectedagoodwayo.click();
-        return new ClassUnderTestApogen(driver);
+        return new ClassUnderTestApogen();
     }
 }

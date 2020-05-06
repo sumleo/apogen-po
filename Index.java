@@ -1,9 +1,14 @@
-package po_apogen;
+package main;
 
+import org.openqa.selenium.WebDriver;
+import po_utils.DriverProvider;
+import custom_classes.*;
+
+import po_utils.NotInTheRightPageObjectException;
+import po_utils.NotTheRightInputValuesException;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import po.Welcome1;
 
 public class Index {
 

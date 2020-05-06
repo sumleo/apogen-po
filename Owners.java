@@ -1,10 +1,8 @@
-package po_apogen;
+package main;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import po.Welcome1;
-import po.Welcome;
 
 public class Owners {
 

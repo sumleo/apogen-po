@@ -1,36 +1,48 @@
 package main;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 import po_utils.DriverProvider;
 import custom_classes.*;
 
 import po_utils.NotInTheRightPageObjectException;
 import po_utils.NotTheRightInputValuesException;
 
-
 public class ClassUnderTestApogen {
 
-    @FindBy(xpath = "/HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/BUTTON[1]")
-    private WebElement button_Letsstart;
+	private Object currentPage = null;
 
-    @FindBy(xpath = "/HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/HEADER[1]/DIV[1]/A[1]")
-    private WebElement a_Retrospectedagoodwayo;
+	// BOOTSTRAP POINT
+	public ClassUnderTestApogen() {
+		// start driver and browser
+		WebDriver driver = new DriverProvider().getActiveDriver();
 
-    private WebDriver driver;
+		this.currentPage = new po.Index(driver);
+	}
 
-    /**
-     * Page Object for Index (index)
-     */
-    public ClassUnderTestApogen() {
-        this.driver = new DriverProvider().getActiveDriver();
-        PageFactory.initElements(driver, this);
-    }
+	// PO Name: Index
+	public void goToState2Index() {
+		if (this.currentPage instanceof po.Index) {
+			po.Index page = (po.Index) this.currentPage;
+			page.button_Letsstart.click();
+			this.currentPage = new po.State2(page.driver);
+		} else {
+			throw new NotInTheRightPageObjectException(
+					"goToState2Index: expected po.Index, found "
+							+ this.currentPage.getClass().getSimpleName());
+		}
+	}
 
-    public State2 goToState2() {
-        button_Letsstart.click();
-        return new State2(driver);
-    }
+	// PO Name: State2
+	public void goToIndexState2() {
+		if (this.currentPage instanceof po.State2) {
+			po.State2 page = (po.State2) this.currentPage;
+			page.a_Retrospectedagoodwayo.click();
+			this.currentPage = new po.Index(page.driver);
+		} else {
+			throw new NotInTheRightPageObjectException(
+					"goToIndexState2: expected po.State2, found "
+							+ this.currentPage.getClass().getSimpleName());
+		}
+	}
+
 }

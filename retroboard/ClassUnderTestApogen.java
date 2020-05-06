@@ -16,15 +16,15 @@ public class ClassUnderTestApogen {
 		// start driver and browser
 		WebDriver driver = new DriverProvider().getActiveDriver();
 
-		this.currentPage = new po.Index(driver);
+		this.currentPage = new Index(driver);
 	}
 
 	// PO Name: Index
 	public void goToState2Index() {
 		if (this.currentPage instanceof po.Index) {
-			po.Index page = (po.Index) this.currentPage;
+			Index page = (Index) this.currentPage;
 			page.button_Letsstart.click();
-			this.currentPage = new po.State2(page.driver);
+			this.currentPage = new State2(page.driver);
 		} else {
 			throw new NotInTheRightPageObjectException(
 					"goToState2Index: expected po.Index, found "
@@ -35,9 +35,9 @@ public class ClassUnderTestApogen {
 	// PO Name: State2
 	public void goToIndexState2() {
 		if (this.currentPage instanceof po.State2) {
-			po.State2 page = (po.State2) this.currentPage;
+			State2 page = (State2) this.currentPage;
 			page.a_Retrospectedagoodwayo.click();
-			this.currentPage = new po.Index(page.driver);
+			this.currentPage = new Index(page.driver);
 		} else {
 			throw new NotInTheRightPageObjectException(
 					"goToIndexState2: expected po.State2, found "

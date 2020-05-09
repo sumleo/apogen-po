@@ -1,0 +1,49 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------< [0;36mpageobjects:pagekit[0;1m >-------------------------[m
+[[1;34mINFO[m] [1mBuilding pagekit 1.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:1.6.0:java[m [1m(default-cli)[m @ [36mpagekit[0;1m ---[m
+[CodeCoverage]: running code coverage...
+[CodeCoverage]: Running suite - TestSuite
+[MutationTesting]: Number of tests to execute - 34
+[MutationTesting]: Starting execution of - test00
+test00: try run 1 with sleep timeout 0.
+test00: try run 2 with sleep timeout 250.
+test00: run 2 successful with sleep timeout 250.
+[MutationTesting]: Finished execution of - test00
+[MutationTesting]: Starting execution of - test01
+test01: try run 1 with sleep timeout 0.
+test01: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test01
+[MutationTesting]: Starting execution of - test02
+test02: try run 1 with sleep timeout 0.
+test02: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test02
+[MutationTesting]: Starting execution of - test03
+test03: try run 1 with sleep timeout 0.
+test03: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test03
+[MutationTesting]: Starting execution of - test04
+test04: try run 1 with sleep timeout 0.
+test04: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test04
+[MutationTesting]: Starting execution of - test05
+test05: try run 1 with sleep timeout 0.
+test05: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test05
+[MutationTesting]: Starting execution of - test06
+test06: try run 1 with sleep timeout 0.
+test06: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test06
+[MutationTesting]: Starting execution of - test07
+test07: try run 1 with sleep timeout 0.
+test07: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test07
+[MutationTesting]: Starting execution of - test08
+test08: try run 1 with sleep timeout 0.
+test08: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test08
+[MutationTesting]: Starting execution of - test09
+test09: try run 1 with sleep timeout 0.

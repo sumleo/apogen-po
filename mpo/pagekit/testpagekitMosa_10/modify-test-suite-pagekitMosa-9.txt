@@ -1,0 +1,15 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------< [0;36mpageobjects:pagekit[0;1m >-------------------------[m
+[[1;34mINFO[m] [1mBuilding pagekit 1.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:1.6.0:java[m [1m(default-cli)[m @ [36mpagekit[0;1m ---[m
+[CodeCoverage]: modifying evosuite test suite /home/ubuntu/workspace/fse2019/pagekit/src/main/java/main/ClassUnderTest_ESTest.java...
+[CodeCoverage]: evosuite test suite /home/ubuntu/workspace/fse2019/pagekit/src/main/java/main/ClassUnderTest_ESTest.java modified successfully!
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  2.950 s
+[[1;34mINFO[m] Finished at: 2020-05-09T09:47:07Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

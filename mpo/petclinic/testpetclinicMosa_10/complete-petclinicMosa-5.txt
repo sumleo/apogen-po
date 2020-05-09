@@ -1,0 +1,1 @@
+No test suite bug in /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_10

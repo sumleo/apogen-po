@@ -1,0 +1,923 @@
+cp: cannot stat '/home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt/main/*': Not a directory
+./run-test-suite.sh: line 136: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt/modify-test-suite-petclinicMosa-0.txt: Not a directory
+./run-test-suite.sh: line 140: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt/compile-test-suite-petclinicMosa-0.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt/compile-test-suite-petclinicMosa-0.txt: Not a directory
+./run-test-suite.sh: line 150: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt/code-coverage-petclinicMosa-0.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt/code-coverage-petclinicMosa-0.txt: Not a directory
+./run-test-suite.sh: line 160: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt/complete-petclinicMosa-0.txt: Not a directory
+rm: cannot remove 'ClassUnderTest*_ESTest_scaffolding.java': No such file or directory
+rm: cannot remove 'ClassUnderTest*_ESTest.java': No such file or directory
+cp: cannot stat '/home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt/main/*': Not a directory
+./run-test-suite.sh: line 136: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt/modify-test-suite-petclinicMosa-1.txt: Not a directory
+./run-test-suite.sh: line 140: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt/compile-test-suite-petclinicMosa-1.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt/compile-test-suite-petclinicMosa-1.txt: Not a directory
+./run-test-suite.sh: line 150: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt/code-coverage-petclinicMosa-1.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt/code-coverage-petclinicMosa-1.txt: Not a directory
+./run-test-suite.sh: line 160: /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt/complete-petclinicMosa-1.txt: Not a directory
+rm: cannot remove 'ClassUnderTest*_ESTest_scaffolding.java': No such file or directory
+rm: cannot remove 'ClassUnderTest*_ESTest.java': No such file or directory
+cp: cannot stat '/home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt/main/*': Not a directory
+./run-test-suite.sh: line 136: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt/modify-test-suite-petclinicMosa-2.txt: Not a directory
+./run-test-suite.sh: line 140: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt/compile-test-suite-petclinicMosa-2.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt/compile-test-suite-petclinicMosa-2.txt: Not a directory
+./run-test-suite.sh: line 150: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt/code-coverage-petclinicMosa-2.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt/code-coverage-petclinicMosa-2.txt: Not a directory
+./run-test-suite.sh: line 160: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt/complete-petclinicMosa-2.txt: Not a directory
+rm: cannot remove 'ClassUnderTest*_ESTest_scaffolding.java': No such file or directory
+rm: cannot remove 'ClassUnderTest*_ESTest.java': No such file or directory
+cp: cannot stat '/home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt/main/*': Not a directory
+./run-test-suite.sh: line 136: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt/modify-test-suite-petclinicMosa-3.txt: Not a directory
+./run-test-suite.sh: line 140: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt/compile-test-suite-petclinicMosa-3.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt/compile-test-suite-petclinicMosa-3.txt: Not a directory
+./run-test-suite.sh: line 150: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt/code-coverage-petclinicMosa-3.txt: Not a directory
+grep: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt/code-coverage-petclinicMosa-3.txt: Not a directory
+./run-test-suite.sh: line 160: /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt/complete-petclinicMosa-3.txt: Not a directory
+rm: cannot remove 'ClassUnderTest*_ESTest_scaffolding.java': No such file or directory
+rm: cannot remove 'ClassUnderTest*_ESTest.java': No such file or directory
+May 09, 2020 8:09:46 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:09:58 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:10:24 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+test0: run 1 failed with sleep timeout 0.
+Sat May 09 08:10:30 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:10:32 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:10:37 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:10:38 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:10:40 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:10:44 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:10:46 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:10:56 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:10:57 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:10:58 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:10:59 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:00 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:02 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:04 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:11:05 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:11:08 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:10 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:11:27 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:11:52 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:53 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:55 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:11:57 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:11:58 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:11:59 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:00 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:02 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:03 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:04 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:06 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:12:06 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:12:08 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:09 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:11 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:12:11 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:12:12 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:12:13 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:12:16 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:12:29 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:12:30 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:12:55 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+test0: run 1 failed with sleep timeout 0.
+Sat May 09 08:12:55 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:13:02 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:13:08 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:13:10 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:13:12 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:13:14 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:13:14 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:13:15 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:13:17 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:13:18 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:13:19 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:13:20 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:13:22 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:13:23 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:13:25 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:13:25 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:13:29 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:13:40 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:13:40 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:14:06 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:14:07 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:14:08 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:14:10 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:14:11 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:14:12 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:14:13 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:14:14 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:14:17 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:14:19 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:14:20 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:14:21 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:14:23 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:14:24 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:14:25 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:14:26 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:14:37 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:14:37 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:15:03 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:04 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:05 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:07 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:09 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:15:09 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:15:11 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:12 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:14 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:16 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:15:16 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:15:18 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:19 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:15:20 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Sat May 09 08:15:24 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:15:25 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:15:45 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:15:45 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:16:10 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:16:13 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:16:16 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:16:19 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:16:19 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:16:21 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:16:24 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:16:25 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:16:35 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:16:36 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:17:03 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:17:05 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:17:06 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:17:07 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:17:09 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:17:14 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:17:14 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:17:17 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:17:29 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:17:30 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:17:55 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:17:57 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:17:58 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:17:59 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:02 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:18:03 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:18:04 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:05 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:07 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:09 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:10 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:18:12 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:18:13 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:15 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:16 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:17 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:20 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:18:21 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:18:22 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:18:25 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:18:25 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:18:29 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:18:40 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:18:41 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:19:06 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:08 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:09 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:10 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:15 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:19:15 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:19:16 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:18 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:19 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:22 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:19:22 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:19:23 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:24 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:26 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:27 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:19:27 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:19:29 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:30 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:19:33 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:19:34 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:19:44 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:19:45 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:20:10 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:12 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:13 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:14 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:18 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:20:19 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:20:20 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:20:21 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:25 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:20:25 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:20:28 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:20:28 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:20:31 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:20:33 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:20:33 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:20:34 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:36 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:37 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:38 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:40 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:20:51 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:20:51 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:21:17 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:19 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:21:20 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:21:21 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:22 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:25 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:21:27 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:21:28 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:29 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:30 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:31 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:33 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:34 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:21:35 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:21:37 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:38 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:39 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:40 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:41 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:42 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:45 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:21:46 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:21:49 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:21:49 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:21:50 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:51 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:53 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:55 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:56 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:57 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:58 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:21:59 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:00 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:10 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:22:10 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:22:36 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:37 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:39 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:22:41 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:22:42 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:44 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:22:44 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:22:45 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:22:48 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:22:48 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:22:49 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:50 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:52 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:53 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:54 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:56 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:57 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:22:58 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:22:59 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:23:02 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:23:03 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:23:04 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:23:14 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Sat May 09 08:23:15 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:23:40 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //h1[text()="Welcome to Petclinic"]
+
+
+test0: run 1 failed with sleep timeout 0.
+Sat May 09 08:23:40 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:23:50 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+Sat May 09 08:23:50 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:23:52 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:23:53 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:23:54 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:23:56 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:23:58 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: (//table)[2]/tbody/tr
+
+
+May 09, 2020 8:24:00 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:24:00 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:24:02 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:24:03 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:24:04 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:24:05 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:24:06 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:24:08 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+Sat May 09 08:24:08 UTC 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+May 09, 2020 8:24:09 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+May 09, 2020 8:24:12 AM po_utils.PageObjectLogging logInfo
+INFO: waitForElementBeingPresentOnPage timeout exception: unable to locate the element By.xpath: //table/tbody/tr
+
+
+
+Usage:
+ kill [options] <pid> [...]
+
+Options:
+ <pid> [...]            send signal to every <pid> listed
+ -<signal>, -s, --signal <signal>
+                        specify the <signal> to be sent
+ -l, --list=[<signal>]  list all signal names, or convert one to a name
+ -L, --table            list all signal names in a nice table
+
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see kill(1).
+
+Usage:
+ kill [options] <pid> [...]
+
+Options:
+ <pid> [...]            send signal to every <pid> listed
+ -<signal>, -s, --signal <signal>
+                        specify the <signal> to be sent
+ -l, --list=[<signal>]  list all signal names, or convert one to a name
+ -L, --table            list all signal names in a nice table
+
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see kill(1).
+./run.sh: line 131: 128308 Killed                  chromedriver --port=$chromedriver_port
+./run.sh: line 275: 128310 Killed                  node . $express_server_port  (wd: ~/workspace/code-coverage-server/express-istanbul)

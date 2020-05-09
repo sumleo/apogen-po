@@ -1,0 +1,37 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m-----------------------< [0;36mpetclinic:pageobjects[0;1m >------------------------[m
+[[1;34mINFO[m] [1mBuilding pageobjects 1.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mexec-maven-plugin:1.6.0:java[m [1m(default-cli)[m @ [36mpageobjects[0;1m ---[m
+[CodeCoverage]: running code coverage...
+[CodeCoverage]: Running suite - TestSuite
+[MutationTesting]: Number of tests to execute - 5
+[MutationTesting]: Starting execution of - test0
+test0: try run 1 with sleep timeout 0.
+test0: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test0
+[MutationTesting]: Starting execution of - test1
+test1: try run 1 with sleep timeout 0.
+test1: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test1
+[MutationTesting]: Starting execution of - test2
+test2: try run 1 with sleep timeout 0.
+test2: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test2
+[MutationTesting]: Starting execution of - test3
+test3: try run 1 with sleep timeout 0.
+test3: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test3
+[MutationTesting]: Starting execution of - test4
+test4: try run 1 with sleep timeout 0.
+test4: run 1 successful with sleep timeout 0.
+[MutationTesting]: Finished execution of - test4
+[MutationTesting]: Number of tests executed - 5
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  01:01 min
+[[1;34mINFO[m] Finished at: 2020-05-09T08:18:29Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

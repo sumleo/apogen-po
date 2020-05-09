@@ -1,0 +1,41 @@
+Name: Statements Percentage: 55.52% Fraction: 593/1068
+Name: Branches Percentage: 28.36% Fraction: 196/691
+Name: Functions Percentage: 48.9% Fraction: 156/319
+Name: Lines Percentage: 55.85% Fraction: 578/1035
+PARSE_BUGS_HERE
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3764:11 "[vue-loader] app/system/app/components/loader.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3813:11 "[vue-loader] app/system/app/components/modal.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3934:11 "[vue-loader] app/system/app/components/input-filter.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4009:11 "[vue-loader] app/system/app/components/input-date.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4124:11 "[vue-loader] app/system/app/components/input-image.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4214:11 "[vue-loader] app/system/app/components/input-image-meta.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4320:11 "[vue-loader] app/system/app/components/input-video.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/modules/user/app/bundle/interceptor.js?v=d10d 56:11 "[vue-loader] app/system/modules/user/app/components/modal-login.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/modules/dashboard/app/bundle/index.js?v=d10d 181:11 "[vue-loader] app/system/modules/dashboard/app/components/widget-panel.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/modules/dashboard/app/bundle/index.js?v=d10d 261:11 "[vue-loader] app/system/modules/dashboard/app/components/widget-feed.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/modules/dashboard/app/bundle/index.js?v=d10d 397:11 "[vue-loader] app/system/modules/dashboard/app/components/widget-location.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/modules/user/app/bundle/widget-user.js?v=d10d 51:11 "[vue-loader] app/system/modules/user/app/components/widget-user.vue: named exports in *.vue files are ignored."
+SEVERE->http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http%3A%2F%2Fpagekit.com%2Fblog%2Ffeed&num=5&callback=_jsonpv87d4v2i0i - Failed to load resource: net::ERR_CONNECTION_RESET
+SEVERE->https://maps.googleapis.com/maps/api/timezone/json?location=53.549999%2C10&timestamp=1589017832 - Failed to load resource: net::ERR_CONNECTION_RESET
+SEVERE->https://maps.googleapis.com/maps/api/timezone/json?location=46.0679%2C11.1211&timestamp=1589017834 - Failed to load resource: net::ERR_CONNECTION_RESET
+SEVERE->http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http%3A%2F%2Fpagekit.com%2Fblog%2Ffeed&num=5&callback=_jsonp7ppmgjzbvhg - Failed to load resource: net::ERR_CONNECTION_RESET
+SEVERE->https://maps.googleapis.com/maps/api/timezone/json?location=44.4129%2C8.9573&timestamp=1589017839 - Failed to load resource: net::ERR_CONNECTION_RESET
+SEVERE->http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http%3A%2F%2Fpagekit.com%2Fblog%2Ffeed&num=5&callback=_jsonphgnon4jc27l - Failed to load resource: net::ERR_CONNECTION_RESET
+SEVERE->http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http%3A%2F%2Frss.weatherzone.com.au%2F%3Fu%3D12994-1285%26lt%3Daploc%26lc%3D5594%26obs%3D1%26fc%3D1%26warn%3D1&num=5&callback=_jsonpukym2fn9gsf - Failed to load resource: net::ERR_CONNECTION_RESET
+SEVERE->http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=http%3A%2F%2Frss.weatherzone.com.au%2F%3Fu%3D12994-1285%26lt%3Daploc%26lc%3D5594%26obs%3D1%26fc%3D1%26warn%3D1&num=5&callback=_jsonpfc5kgfsefgw - Failed to load resource: net::ERR_CONNECTION_RESET
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3764:11 "[vue-loader] app/system/app/components/loader.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3813:11 "[vue-loader] app/system/app/components/modal.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3934:11 "[vue-loader] app/system/app/components/input-filter.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4009:11 "[vue-loader] app/system/app/components/input-date.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4124:11 "[vue-loader] app/system/app/components/input-image.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4214:11 "[vue-loader] app/system/app/components/input-image-meta.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4320:11 "[vue-loader] app/system/app/components/input-video.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/modules/user/app/bundle/interceptor.js?v=d10d 56:11 "[vue-loader] app/system/modules/user/app/components/modal-login.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3764:11 "[vue-loader] app/system/app/components/loader.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3813:11 "[vue-loader] app/system/app/components/modal.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 3934:11 "[vue-loader] app/system/app/components/input-filter.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4009:11 "[vue-loader] app/system/app/components/input-date.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4124:11 "[vue-loader] app/system/app/components/input-image.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4214:11 "[vue-loader] app/system/app/components/input-image-meta.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/app/bundle/vue.js?v=d10d 4320:11 "[vue-loader] app/system/app/components/input-video.vue: named exports in *.vue files are ignored."
+WARNING->http://localhost:3003/pagekit/app/system/modules/user/app/bundle/interceptor.js?v=d10d 56:11 "[vue-loader] app/system/modules/user/app/components/modal-login.vue: named exports in *.vue files are ignored."

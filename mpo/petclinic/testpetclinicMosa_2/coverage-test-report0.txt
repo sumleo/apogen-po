@@ -1,0 +1,25 @@
+Name: Statements Percentage: 70.83% Fraction: 68/96
+Name: Branches Percentage: 40.0% Fraction: 8/20
+Name: Functions Percentage: 69.7% Fraction: 23/33
+Name: Lines Percentage: 70.83% Fraction: 68/96
+PARSE_BUGS_HERE
+SEVERE->http://localhost:3006/owners - Failed to load resource: the server responded with a status of 500 ()
+SEVERE->http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js 14960:40 TypeError: Cannot read property 'map' of undefined
+    at responseError (http://localhost:3006/scripts/infrastructure/httpErrorHandlingInterceptor-5354547ebf889b2449060862a0036962.js:1:1534)
+    at processQueue (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:17330:37)
+    at http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:17378:27
+    at Scope.$digest (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:18515:15)
+    at Scope.$apply (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:18903:24)
+    at done (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:12775:47)
+    at completeRequest (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:13032:7)
+    at XMLHttpRequest.requestLoaded (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:12937:9) "Possibly unhandled rejection: {}"
+SEVERE->http://localhost:3006/owners - Failed to load resource: the server responded with a status of 500 ()
+SEVERE->http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js 14960:40 TypeError: Cannot read property 'map' of undefined
+    at responseError (http://localhost:3006/scripts/infrastructure/httpErrorHandlingInterceptor-5354547ebf889b2449060862a0036962.js:1:1534)
+    at processQueue (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:17330:37)
+    at http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:17378:27
+    at Scope.$digest (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:18515:15)
+    at Scope.$apply (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:18903:24)
+    at done (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:12775:47)
+    at completeRequest (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:13032:7)
+    at XMLHttpRequest.requestLoaded (http://localhost:3006/angular/angular-0d8982e44cf5c11acbdade3de33691be.js:12937:9) "Possibly unhandled rejection: {}"

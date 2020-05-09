@@ -1,0 +1,225 @@
+Port app: 3006
+Port db: 3312
+Production: yes
+Container name: petclinicMosa
+8dc59343a5300ad8ac5c8e28f4e71a2298e06019b9531bf123c85f15531496eb
+The script starts the chromedriver process on port 9521 and the express server for collecting coverage reports on port 7005
+Waiting for application server to start...
+Starting chromedriver on port 9521
+Starting express server on port 7005
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_13.txt
+Starting ChromeDriver 2.46.628388 (4a34a70827ac54148e092aafb70504c4ea7ae926) on port 9521
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 0
+
+Total time to run code coverage for test suite: 		0 hours, 0 minutes and 0 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/errorspetclinicMosa_1.txt
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 1
+
+Total time to run code coverage for test suite: 		0 hours, 0 minutes and 0 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_13.txt
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 2
+
+Total time to run code coverage for test suite: 		0 hours, 0 minutes and 0 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/logspetclinicMosa_1.txt
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 3
+
+Total time to run code coverage for test suite: 		0 hours, 0 minutes and 0 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_0
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 4
+
+Express server listening on port 7005
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 52 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_10
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 5
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 7 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_11
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 6
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 11 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_12
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 7
+
+Total time to run code coverage for test suite: 		0 hours, 0 minutes and 58 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_14
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 8
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 1 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_2
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 9
+
+Total time to run code coverage for test suite: 		0 hours, 0 minutes and 57 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_3
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 10
+
+Total time to run code coverage for test suite: 		0 hours, 0 minutes and 55 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_4
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 11
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 9 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_5
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 12
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 5 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_6
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 13
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 5 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_7
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 14
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 20 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_8
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 15
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 4 seconds elapsed.
+* Current directory:  /home/ubuntu/apogen-po/mpo/petclinic/testpetclinicMosa_9
+
+Project name: petclinic
+Session file name: petclinicMosa
+Database port for remote connection: 3312
+Application port for remote connection: 3006
+Chromedriver port: 9521
+Project folder: /home/ubuntu/workspace/fse2019/petclinic
+Express server port: 7005
+Test suite counter: 16
+
+Total time to run code coverage for test suite: 		0 hours, 1 minutes and 9 seconds elapsed.
+Stopping container
+petclinicMosa
+petclinicMosa
+Stopping chromedriver process listening on port 9521
+Finding children processes of chromedriver and killing them
+Stopping express server listening on port 7005
+Finding children processes of express and killing them
+Total time to run code coverage for all test suites: 0 hours, 17 minutes and 11 seconds elapsed.
